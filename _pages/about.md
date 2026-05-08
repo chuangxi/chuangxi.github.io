@@ -29,7 +29,8 @@ My research interests include:
 - Intelligent Sensing for Marine and Industrial Applications  
 
 I am open to collaborations in computer vision, signal processing, and deployable intelligent systems.
-<a href="./CV/CV_Updated_20260427.pdf">Download my CV here</a>
+
+<a href="./CV/Chuangxi_Chen_CV.pdf">Download my CV here</a>
 
 # 🔥 News
 - *2026-05*: &nbsp; 🎉🎉 One paper has been submitted to SIGGRAPH Asia 2026.
