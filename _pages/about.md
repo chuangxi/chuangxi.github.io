@@ -41,11 +41,11 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* **National 2nd Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 
 # 📖 Educations
 - *2022.09 - Present*, <a href="https://zh.bit.edu.cn"><img class="svg" src="/images/BIT_logo.png" width="20pt" /></a> Beijing Institute of Technology, Zhuhai, B.S. in Electronic Science and Technology
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.07 - 2025.09*, CETC Potevio Technology Co., Ltd. (State-Owned Enterprise), Guangzhou, China.
+- *2024.06 - 2024.08*, Zhongyuan Technology (Guangdong) Co., Ltd. (State-Owned Enterprise), Guangzhou, China.
