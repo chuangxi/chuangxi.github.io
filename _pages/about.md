@@ -49,7 +49,6 @@ I am open to collaborations in computer vision, signal processing, and deployabl
 [**[Paper]**](https://ieeexplore.ieee.org/document/11370686)
 [**[Code]**](https://github.com/chuangxi/DEFriT)
 
-Proposed DEFriT, a Dual-Domain Fractional Fourier Transformer, to remove underwater image degradation through joint spatial and fractional spectral modeling.
 </div>
 </div>
 
