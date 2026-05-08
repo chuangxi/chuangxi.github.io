@@ -55,7 +55,7 @@ Proposed DEFriT, a Dual-Domain Fractional Fourier Transformer, for underwater de
 # 🎖 Honors and Awards
 - *2025.06* **National Level Project**, Undergraduate Innovation & Entrepreneurship Training Program
 - *2025.05* **Provincial 1st Prize**, 18th "Challenge Cup" Academic Science & Technology Competition
-- *2025.03* **Rank 1 (School-wide)**, Guangdong Provincial Science and Technology Innovation Strategy Special Fund (College Student Science and Technology Innovation Cultivation Program)
+- *2025.03* **Rank 1 (School-wide)**, 2025 College Students’ Innovation Cultivation Project, Guangdong Science and Technology Innovation Strategy Special Fund
 - *2024.04* **Meritorious Winner (Top 7%)**, MCM/ICM Mathematical Modeling Contest (USA)
 - *2023.11* **National 2nd Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2023.09* **Grand Prize Nomination (Undergrad Rank 3rd)**, Yangtze River Delta Mathematical Modeling Contest
