@@ -63,10 +63,8 @@ Proposed DEFriT, a Dual-Domain Fractional Fourier Transformer, for underwater de
 - *2023.09* **Grand Prize Nomination (Undergrad Rank 3rd)**, Yangtze River Delta Mathematical Modeling Contest
 
 # 📜 Patents
-- *2026.04* — CN Invention Patent, *An Underwater Image Degradation Removal Method Based on Dual-Domain Fractional Fourier Transform (DEFriT).* 
-  Role: First Inventor. Status: Submitted.
-- *2025.11 – Present* — CN Patent, *An Underwater Object Detection Method, Device, and Medium Based on Improved YOLOv7.*  
-  Role: Co-Inventor. Application No. 202511602574.0. Status: Filed / Application Accepted.
+- *2026.04* — CN Invention Patent, *An Underwater Image Degradation Removal Method Based on Dual-Domain Fractional Fourier Transform (DEFriT).* Role: First Inventor. Status: Submitted.
+- *2025.11 – Present* — CN Patent, *An Underwater Object Detection Method, Device, and Medium Based on Improved YOLOv7.* Role: Co-Inventor. Application No. 202511602574.0. Status: Filed / Application Accepted.
   
 # 📖 Educations
 - *2022.09 - Present*, <a href="https://zh.bit.edu.cn"><img class="svg" src="/images/BIT_logo.png" width="20pt" /></a> Beijing Institute of Technology, Zhuhai, B.S. in Electronic Science and Technology
