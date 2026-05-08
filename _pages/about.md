@@ -33,8 +33,8 @@ My research interests include:
 I am open to collaborations in computer vision, signal processing, and deployable intelligent systems.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026-05*: &nbsp; 🎉🎉 One paper has been submitted to SIGGRAPH Asia 2026.
+- *2025.12*: &nbsp; 🎉🎉 [DEFriT](https://defrit2026.github.io/) is accepted to SPL 2026.
 
 # 📝 Publications 
 
@@ -61,6 +61,10 @@ Proposed DEFriT, a Dual-Domain Fractional Fourier Transformer, for underwater de
 - *2024.04* **Meritorious Winner (Top 7%)**, MCM/ICM Mathematical Modeling Contest (USA)
 - *2023.11* **National 2nd Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2023.09* **Grand Prize Nomination (Undergrad Rank 3rd)**, Yangtze River Delta Mathematical Modeling Contest
+
+# 📜 Patents
+- *2026.04* First Inventor: "An Underwater Image Degradation Removal Method Based on Dual-Domain Fractional Fourier Transform (DEFriT)." CN Invention Patent | Status: Submitted.
+- *2025.11 – Present* Co-Inventor: "An Underwater Object Detection Method, Device, and Medium Based on Improved YOLOv7." CN Patent Application No. 202511602574.0 | Status: Filed (Application Accepted).
 
 # 📖 Educations
 - *2022.09 - Present*, <a href="https://zh.bit.edu.cn"><img class="svg" src="/images/BIT_logo.png" width="20pt" /></a> Beijing Institute of Technology, Zhuhai, B.S. in Electronic Science and Technology
