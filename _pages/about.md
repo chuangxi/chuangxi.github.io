@@ -17,10 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+😃 Welcome to my personal page!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am Chuangxi Chen (陈创禧), currently pursuing a B.Eng. degree in Electronic Science and Technology at Beijing Institute of Technology, Zhuhai. My work focuses on building reliable AI-driven perception systems for challenging environments, especially underwater and industrial scenarios.
 
+Beyond algorithm research, I am also interested in bridging deep learning models with real-world hardware platforms. I have hands-on experience in embedded vision system design, including underwater polarization camera development, Jetson-based AI deployment, STM32 control, and TensorRT acceleration. My goal is to develop intelligent systems that are not only theoretically motivated, but also robust, efficient, and deployable in practical environments.
+
+My research interests include:
+- Underwater Computer Vision
+- Image Restoration and Enhancement
+- Fractional Fourier Transform and Frequency-domain Learning
+- Edge AI Deployment and Embedded Vision
+- Intelligent Sensing for Marine and Industrial Applications  
+
+I am open to collaborations in computer vision, signal processing, and deployable intelligent systems.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
