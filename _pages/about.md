@@ -19,15 +19,13 @@ redirect_from:
 
 😃 Welcome to my personal page!
 
-I am Chuangxi Chen (陈创禧), currently pursuing a B.Eng. degree in Electronic Science and Technology at Beijing Institute of Technology, Zhuhai. My work focuses on building reliable AI-driven perception systems for challenging environments, especially underwater and industrial scenarios.
-
-Beyond algorithm research, I am also interested in bridging deep learning models with real-world hardware platforms. I have hands-on experience in embedded vision system design, including underwater polarization camera development, Jetson-based AI deployment, STM32 control, and TensorRT acceleration. My goal is to develop intelligent systems that are not only theoretically motivated, but also robust, efficient, and deployable in practical environments.
+I am Chuangxi Chen (陈创禧), currently pursuing a B.Eng. degree in Electronic Science and Technology at Beijing Institute of Technology, Zhuhai. My work focuses on building reliable AI-driven perception systems for challenging environments, especially underwater and industrial scenarios. I am interested in bridging algorithm design with real-world deployment, aiming to develop intelligent vision systems that are robust, efficient, and practically usable.
 
 My research interests include:
-- Underwater Computer Vision
-- Image Restoration and Enhancement
-- Fractional Fourier Transform and Frequency-domain Learning
-- Edge AI Deployment and Embedded Vision
+- Underwater Computer Vision  
+- Image Restoration and Enhancement  
+- Fractional Fourier Transform and Frequency-domain Learning  
+- Edge AI Deployment and Embedded Vision  
 - Intelligent Sensing for Marine and Industrial Applications  
 
 I am open to collaborations in computer vision, signal processing, and deployable intelligent systems.
