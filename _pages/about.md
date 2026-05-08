@@ -47,8 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022.09 - Present*, <a href="https://english.bit.edu.cn/"><img class="svg" src="/images/BIT_logo.png" width="20pt" /></a> Beijing Institute of Technology, B.S. in Electronic Science and Technology
+- 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
