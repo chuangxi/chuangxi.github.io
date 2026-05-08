@@ -19,7 +19,7 @@ redirect_from:
 
 😃 Welcome to my personal page!
 
-I am Chuangxi Chen (陈创禧), currently pursuing a B.Eng. degree in Electronic Science and Technology at Beijing Institute of Technology, Zhuhai. My work focuses on building reliable AI-driven perception systems for challenging environments, especially underwater and industrial scenarios. I am interested in bridging algorithm design with real-world deployment, aiming to develop intelligent vision systems that are robust, efficient, and practically usable.
+I am Chuangxi Chen (陈创禧), currently pursuing a B.Eng. degree in Electronic Science and Technology at [Beijing Institute of Technology, Zhuhai](https://zh.bit.edu.cn/). My work focuses on building reliable AI-driven perception systems for challenging environments, especially underwater and industrial scenarios. I am interested in bridging algorithm design with real-world deployment, aiming to develop intelligent vision systems that are robust, efficient, and practically usable.
 
 My research interests include:
 - Underwater Computer Vision  
@@ -30,7 +30,7 @@ My research interests include:
 
 I am open to collaborations in computer vision, signal processing, and deployable intelligent systems.
 
-<a href="./CV/Chuangxi_Chen_CV.pdf">Download my CV here</a>
+[Download my CV here](./CV/Chuangxi_Chen_CV.pdf)
 
 # 🔥 News
 - *2026-05*: &nbsp; 🎉🎉 One paper has been submitted to SIGGRAPH Asia 2026.
