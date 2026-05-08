@@ -70,5 +70,5 @@ Proposed DEFriT, a Dual-Domain Fractional Fourier Transformer, for underwater de
 - *2022.09 - Present*, <a href="https://zh.bit.edu.cn"><img class="svg" src="/images/BIT_logo.png" width="20pt" /></a> Beijing Institute of Technology, Zhuhai, B.S. in Electronic Science and Technology
 
 # 💻 Internships
-- *2025.07 - 2025.09*, CETC Potevio Technology Co., Ltd. (State-Owned Enterprise), Guangzhou, China.
-- *2024.06 - 2024.08*, Zhongyuan Technology (Guangdong) Co., Ltd. (State-Owned Enterprise), Guangzhou, China.
+- *2025.07 - 2025.09*, CETC Potevio Technology Co., Ltd. (a listed company and a member of CETC) , Guangzhou, China.
+- *2024.06 - 2024.08*, Zhongyuan Technology (Guangdong) Co., Ltd. , Guangzhou, China.
