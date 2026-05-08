@@ -41,13 +41,15 @@ I am open to collaborations in computer vision, signal processing, and deployabl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPL 2026</div><img src='images/DEFriT.png' alt="DEFriT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dual-Domain Fractional Fourier Transformer for Underwater Image Degradation Removal](https://defrit2026.github.io/)
+[SPL 2026][Dual-Domain Fractional Fourier Transformer for Underwater Image Degradation Removal](https://defrit2026.github.io/)
 
 **Chuangxi Chen**, Zhuang Zhou, Xudong Zhao, Yixiao Yang, Xin Zhang, Ran Tao, and Binghua Su
 
 [**[Project Page]**](https://defrit2026.github.io/) 
 [**[Paper]**](https://ieeexplore.ieee.org/document/11370686)
 [**[Code]**](https://github.com/chuangxi/DEFriT)
+
+Proposed DEFriT, a Dual-Domain Fractional Fourier Transformer, to remove underwater image degradation through joint spatial and fractional spectral modeling.
 
 </div>
 </div>
